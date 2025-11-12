@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "autor": "Jose Garcia",
+      "titulo": "El Poder En Tus Manos: La Historia De Los Masters Del Universo Y She Ra",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788418320378"
+    },
+    {
       "autor": "Tom King / Clay Mann",
       "titulo": "Heroes En Crisis",
       "comprado": "&#xf046",
