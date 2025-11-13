@@ -1,3 +1,27 @@
+let prefers = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+let html = document.querySelector('html');
+
+let savedTheme = localStorage.getItem('theme');
+let currentTheme = savedTheme || prefers;
+
+html.classList.add(currentTheme);
+html.setAttribute('data-theme', currentTheme);
+
+function toggleTheme() {
+  let newTheme = html.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+  html.setAttribute('data-theme', newTheme);
+  html.classList.remove('light', 'dark');
+  html.classList.add(newTheme);
+  localStorage.setItem('theme', newTheme);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const btn = document.getElementById('theme-toggle');
+  if (btn) {
+    btn.addEventListener('click', toggleTheme);
+  }
+});
+
 let table = new DataTable('#table', {
   ajax: "tabla.json",
   stateSave: true,

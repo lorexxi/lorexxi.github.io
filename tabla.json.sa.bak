@@ -1,25 +1,34 @@
 {
   "data": [
+
     {
-      "autor": "J.M. De Matteis / James Tucker / Ethen Beavers / Nick Filardi",
-      "titulo": "Liga De La Justicia Infinita",
+      "autor": "J.M. DeMatteis / James Tucker / Ethen Beavers / Nick Filardi",
+      "titulo": "LIGA de La JUSTICIA Infinita",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878190068"
     },
+
+
+
+
+
+  
     {
-      "autor": "Joshua Williamson / Rafa Sandoval / Edwin Galmon / Alejandro Sanchez",
-      "titulo": "Superman: La Casa De Brainiac",
+      "autor": "Joshua Williamson / Rafa Sandoval / Edwin Galmon / Alejandro Sánchez",
+      "titulo": "SUPERMAN: LA CASA DE BRAINIAC",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878193892"
     },
+
+
     {
-      "autor": "Grant Morrison / Marcus To / Paulo Siqueira / Dave Mc Caig / Hi Fi Desing",
+      "autor": "Grant Morrison / Marcus To / Paulo Siqueira / Dave McCaig / Hi Fi Desing",
       "titulo": "Multiversity 6: La Guia Del Multiverso",
       "comprado": "&#xf046",
       "leido": "&#xf096",
@@ -27,6 +36,11 @@
       "isbn": "",
       "isbn13": "9789878195018"
     },
+  
+  
+  
+  
+  
     {
       "autor": "Jose Garcia",
       "titulo": "El Poder En Tus Manos: La Historia De Los Masters Del Universo Y She Ra",
