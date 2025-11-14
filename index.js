@@ -25,17 +25,10 @@ document.addEventListener('DOMContentLoaded', () => {
 let table = new DataTable('#table', {
   ajax: "tabla.json",
   stateSave: true,
+  stateDuration: 0,
   deferRender: true,
   responsive: true,
   fixedHeader: true,
-
-  stateSaveCallback: function (settings, data) {
-    localStorage.setItem('mi_humilde_biblioteca', JSON.stringify(data));
-  },
-  stateLoadCallback: function (settings) {
-    return JSON.parse(localStorage.getItem('mi_humilde_biblioteca'));
-  },
-
   columns: [
     { data: "autor", className: "dt-body-left dt-head-center", width: "20%" },
     { data: "titulo", className: "dt-body-left dt-head-center", width: "35%" },
