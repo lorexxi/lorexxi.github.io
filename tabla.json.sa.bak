@@ -1,46 +1,57 @@
 {
   "data": [
+    {
+      "autor": "Geoff Johns / Phil Jimenez / George Perez / Joe Bennett / Ivan Reis",
+      "titulo": "CRISIS INFINITA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788416660407"
+    },
+
 
     {
-      "autor": "J.M. DeMatteis / James Tucker / Ethen Beavers / Nick Filardi",
-      "titulo": "LIGA de La JUSTICIA Infinita",
+      "autor": "Alex Ross / Jim Krueger / Doug Braithwaite",
+      "titulo": "Justicia",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788416660414"
+    },
+
+
+  
+  
+  
+    {
+      "autor": "J.M. De Matteis / James Tucker / Ethen Beavers / Nick Filardi",
+      "titulo": "Liga De La Justicia Infinita",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878190068"
     },
-
-
-
-
-
-  
     {
-      "autor": "Joshua Williamson / Rafa Sandoval / Edwin Galmon / Alejandro Sánchez",
-      "titulo": "SUPERMAN: LA CASA DE BRAINIAC",
+      "autor": "Joshua Williamson / Rafa Sandoval / Edwin Galmon / Alejandro Sanchez",
+      "titulo": "Superman: La Casa De Brainiac",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878193892"
     },
-
-
     {
-      "autor": "Grant Morrison / Marcus To / Paulo Siqueira / Dave McCaig / Hi Fi Desing",
+      "autor": "Grant Morrison / Marcus To / Paulo Siqueira / Dave Mc Caig / Hi Fi Desing",
       "titulo": "Multiversity 6: La Guia Del Multiverso",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195018"
     },
-  
-  
-  
-  
-  
     {
       "autor": "Jose Garcia",
       "titulo": "El Poder En Tus Manos: La Historia De Los Masters Del Universo Y She Ra",
@@ -99,7 +110,7 @@
       "autor": "Grant Morrison / Cameron Stewart / Nathan Fairbairn",
       "titulo": "Multiversity 5: Mundo Trueno",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194899"
@@ -108,7 +119,7 @@
       "autor": "Grant Morrison / Frank Quitely / Nathan Fairbairn",
       "titulo": "Multiversity 4: Pax Americana",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194721"
@@ -117,7 +128,7 @@
       "autor": "Grant Morrison / Ben Oliver",
       "titulo": "Multiversity 3: Los Justos",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194288"
@@ -126,7 +137,7 @@
       "autor": "Grant Morrison / Chris Sprouse / Karl Story / Walden Wong / Dave Mc Caig",
       "titulo": "Multiversity 2: La Sociedad De Los Superheroes: Conquistadores De La Contra Tierra",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194226"
