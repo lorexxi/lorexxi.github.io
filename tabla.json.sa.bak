@@ -1,16 +1,42 @@
 {
   "data": [
     {
-      "autor": "Geoff Johns / Phil Jimenez / George Perez / Joe Bennett / Ivan Reis",
-      "titulo": "CRISIS INFINITA",
+      "autor": "Dan Jurgens / Brett Breeding / Jerry Ordway / Robert Stern / Louise Simonson",
+      "titulo": "Superman: The Death of Superman 30th Anniversary Special 1",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
+      "isbn13": "761941375922"
+    },
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    {
+      "autor": "Geoff Johns / Phil Jimenez / George Perez / Joe Bennett / Ivan Reis",
+      "titulo": "Crisis Infinita",
+      "comprado": "&#xf046",
+      "leido": "&#xf046",
+      "prestado": "",
+      "isbn": "",
       "isbn13": "9788416660407"
     },
-
-
     {
       "autor": "Alex Ross / Jim Krueger / Doug Braithwaite",
       "titulo": "Justicia",
@@ -20,11 +46,6 @@
       "isbn": "",
       "isbn13": "9788416660414"
     },
-
-
-  
-  
-  
     {
       "autor": "J.M. De Matteis / James Tucker / Ethen Beavers / Nick Filardi",
       "titulo": "Liga De La Justicia Infinita",
@@ -254,7 +275,7 @@
       "autor": "Geoff Johns / Phil Jimenez / George Perez / Jerry Ordway / Rod Reis / Andy Lanning",
       "titulo": "Crisis Infinita",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789877247121"
