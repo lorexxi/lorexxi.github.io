@@ -1,33 +1,55 @@
 {
   "data": [
     {
+      "autor": "Salvador Sanz / Luciano Saracino / Paco Roca / Brian Azzarello / Lee Bermejo",
+      "titulo": "BATMAN: EL MUNDO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195209"
+    },
+
+    {
+      "autor": "Grant Morrison / Jim Lee / Scott Williams / Alex Sinclair",
+      "titulo": "Multiversity 7: LOS AMOS",
+      "comprado": "&#xf046",
+      "leido": "&#xf046",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195216"
+    },
+
+
+
+    {
+      "autor": "Gustavo Sala",
+      "titulo": "CAPITÁN BARATO",
+      "comprado": "&#xf046",
+      "leido": "&#xf046",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9786310091662"
+    },
+
+
+
+
+  
+  
+  
+  
+  
+  
+    {
       "autor": "Dan Jurgens / Brett Breeding / Jerry Ordway / Robert Stern / Louise Simonson",
-      "titulo": "Superman: The Death of Superman 30th Anniversary Special 1",
+      "titulo": "Superman: The Death Of Superman 30th Anniversary Special 1",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "761941375922"
     },
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
     {
       "autor": "Geoff Johns / Phil Jimenez / George Perez / Joe Bennett / Ivan Reis",
       "titulo": "Crisis Infinita",
