@@ -1,6 +1,51 @@
 {
   "data": [
     {
+      "autor": "Chip Zdarsky / John Ridley / Mike Hawthorne / Alitha Martinez",
+      "titulo": "Batman: Poder Absoluto",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878199917"
+    },
+    {
+      "autor": "Ron Marz / Darryl Banks / Jeff Johnson / Paul Pelletier / Terry Austin / Chuck Dixon",
+      "titulo": "Green Lantern: Caballeros Esmeralda",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878193823"
+    },
+    {
+      "autor": "Geoff Johns / Ethan Van Sciver",
+      "titulo": "Green Lantern: Renacimiento",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878191263"
+    },
+    {
+      "autor": "Geoff Johns / Matt Smith",
+      "titulo": "Liga De La Justicia: Dia Del Juicio",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877249750"
+    },
+    {
+      "autor": "Grant Morrison / Doug Mahnke / Christian Alamy / Mark Irwin / Keith Champagne / Jaime Mendoza / David Baron / Gabe Eltaeb",
+      "titulo": "Multiversity 8: Ultra Comics",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195452"
+    },
+    {
       "autor": "Salvador Sanz / Luciano Saracino / Paco Roca / Brian Azzarello / Lee Bermejo",
       "titulo": "Batman: El Mundo",
       "comprado": "&#xf046",

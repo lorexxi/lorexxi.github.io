@@ -1,46 +1,99 @@
 {
   "data": [
     {
-      "autor": "Salvador Sanz / Luciano Saracino / Paco Roca / Brian Azzarello / Lee Bermejo",
-      "titulo": "BATMAN: EL MUNDO",
+      "autor": "Chip Zdarsky / John Ridley / Mike Hawthorne / Alitha Martinez",
+      "titulo": "BATMAN: PODER ABSOLUTO",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
-      "isbn13": "9789878195209"
+      "isbn13": "9789878199917"
     },
 
+
+
+
+    {
+      "autor": "Ron Marz / Darryl Banks / Jeff Johnson / Paul Pelletier / Terry Austin / Chuck Dixon",
+      "titulo": "GREEN LANTERN: CABALLEROS ESMERALDA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878193823"
+    },
+
+
+
+
+    {
+      "autor": "Geoff Johns / Ethan Van Sciver",
+      "titulo": "GREEN LANTERN: RENACIMIENTO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878191263"
+    },
+
+
+
+
+    {
+      "autor": "Geoff Johns / Matt Smith",
+      "titulo": "LIGA de La JUSTICIA: Día Del Juicio",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877249750"
+    },
+
+
+
+
+    {
+      "autor": "Grant Morrison / Doug Mahnke / Christian Alamy / Mark Irwin / Keith Champagne / Jaime Mendoza / David Baron / Gabe Eltaeb",
+      "titulo": "Multiversity 8: ULTRA COMICS",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195452"
+    },
+  
+  
+  
+  
+  
+  
+    {
+      "autor": "Salvador Sanz / Luciano Saracino / Paco Roca / Brian Azzarello / Lee Bermejo",
+      "titulo": "Batman: El Mundo",
+      "comprado": "&#xf046",
+      "leido": "&#xf046",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195209"
+    },
     {
       "autor": "Grant Morrison / Jim Lee / Scott Williams / Alex Sinclair",
-      "titulo": "Multiversity 7: LOS AMOS",
+      "titulo": "Multiversity 7: Los Amos",
       "comprado": "&#xf046",
       "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195216"
     },
-
-
-
     {
       "autor": "Gustavo Sala",
-      "titulo": "CAPITÁN BARATO",
+      "titulo": "Capitan Barato",
       "comprado": "&#xf046",
-      "leido": "&#xf046",
+      "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9786310091662"
     },
-
-
-
-
-  
-  
-  
-  
-  
-  
     {
       "autor": "Dan Jurgens / Brett Breeding / Jerry Ordway / Robert Stern / Louise Simonson",
       "titulo": "Superman: The Death Of Superman 30th Anniversary Special 1",
@@ -63,7 +116,7 @@
       "autor": "Alex Ross / Jim Krueger / Doug Braithwaite",
       "titulo": "Justicia",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788416660414"
