@@ -1,95 +1,129 @@
 {
   "data": [
+  
+    {
+      "autor": "Darwyn Cookec",
+      "titulo": "BATMAN: EGO (y otras historias)",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877245240"
+    },
+  
+  
+    {
+      "autor": "Grant Morrison / Mikel Janín / Jordie Bellaire",
+      "titulo": "SUPERMAN y Authority",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877249538"
+    },
+
+
 
     {
+      "autor": "Stephanie Phillips / Meghan Hetrick / Andrea Shea / Meghan Hetrick / Colleen Doran / Dani Strips / Alyssa Wong",
+      "titulo": "WONDER WOMAN: Sensacional",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877249620"
+    },
+
+
+
+
+    {
+      "autor": "John Byrne / Dick Giordano",
+      "titulo": "SUPERMAN: EL HOMBRE DE ACERO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878191027"
+    },
+
+
+
+
+
+    {
+      "autor": "Grant Morrison / Frank Quitely",
+      "titulo": "JLA: TIERRA 2",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788419972156"
+    },
+  
+
+
+    {
+      "autor": "Jeph Loeb / Tim Sale",
+      "titulo": "Batman: Victoria oscura",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788419866011"
+    },
+
+
+
+
+
+
+  
+    {
       "autor": "Emiliano Maitia / Fede Di Pila",
-      "titulo": "CRONICAS DEL BOMBARDEO",
+      "titulo": "Cronicas Del Bombardeo",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9786319145618"
     },
-
-
-
-
-
-
-
-
-
     {
       "autor": "German Peralta / Max Coronel / Facundo Moyano / Agustin Alessio / Luciano Saracino / Pablo Ayala / Mariano Sciammarella / Nico Di Mattia",
-      "titulo": "CAPITAN BARATO: 10 AÑOS",
+      "titulo": "Capitan Barato: 10 Años",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9786310062068"
     },
-
-
-
-
-
-
-
-
-
-
-
-  
-
     {
       "autor": "Peter David / Martin Egeland / Kirk Jarvinen",
-      "titulo": "AQUAMAN: AÑO UNO",
+      "titulo": "Aquaman: Año Uno",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878192529"
     },
-  
-  
-  
-  
-  
-  
-  
-  
     {
-      "autor": "Chip Zdarsky • Jorge Jiménez • Giuseppe Camuncoli",
-      "titulo": "BATMAN: JOKER: AÑO UNO",
+      "autor": "Chip Zdarsky Jorge Jimenez Giuseppe Camuncoli",
+      "titulo": "Batman: Joker: Año Uno",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878193748"
     },
-  
-  
-  
-
-  
-  
     {
       "autor": "Grant Morrison / Ivan Reis / Joe Prado / Daniel Brown",
-      "titulo": "Multiversity 9: JUSTICIA ENCARNADA",
+      "titulo": "Multiversity 9: Justicia Encarnada",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195575"
     },
-
-  
-  
-  
-  
-  
-  
-  
     {
       "autor": "Kevin Eastman / Tom Waltz / S.L. Gallant / Ben Bishop / Freddie E. Williams Ii / Esau Escorza / Isaac Escorza / Maria Keane / Luis Antonio Delgado",
       "titulo": "Teenage Mutant Ninja Turtles: Tmnt: El Ultimo Ronin: Los Años Perdidos",
