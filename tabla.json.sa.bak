@@ -1,21 +1,32 @@
 {
   "data": [
-  
+    {
+      "autor": "Jeph Loeb / Tim Sale / Bjarne Hansen",
+      "titulo": "Superman: Las Cuatro Estaciones",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877249767"
+    },
+    {
+      "autor": "Jeph Loeb / Tim Sale",
+      "titulo": "Batman: El Largo Halloween: La Precuela: Caballero Maldito",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878192345"
+    },
     {
       "autor": "Geoff Johns / Ivan Reis",
-      "titulo": "GREEN LANTERN: ORIGEN SECRETO",
+      "titulo": "Green Lantern: Origen Secreto",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788419733498"
     },
-  
-  
-  
-  
-  
-  
     {
       "autor": "Darwyn Cookec",
       "titulo": "Batman: Ego (Y Otras Historias)",
