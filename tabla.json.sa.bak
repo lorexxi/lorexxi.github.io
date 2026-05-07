@@ -1,5 +1,72 @@
 {
   "data": [
+  
+  
+    {
+      "autor": "Chuck Dixon / Doug Moench / Graham Nolan / Jim Aparo",
+      "titulo": "BATMAN: KNIGHTFALL VOL 2: la caida del caballero",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195988"
+    },
+
+
+
+    {
+      "autor": "Tom King / Bilquis Evely / Matheus Lopes",
+      "titulo": "SUPERGIRL: LA MUJER DEL MAÑANA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195360"
+    },
+
+
+
+
+    {
+      "autor": "Scott Snyder / Greg Capullo / JONATHAN GLAPION / FCO PLASCENCIA",
+      "titulo": "BATMAN: ÚLTIMO CABALLERO EN LA TIERRA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196091"
+    },
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
     {
       "autor": "Jeph Loeb / Tim Sale / Bjarne Hansen",
       "titulo": "Superman: Las Cuatro Estaciones",
@@ -67,7 +134,7 @@
       "autor": "Grant Morrison / Frank Quitely",
       "titulo": "Jla: Tierra 2",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788419972156"
@@ -85,7 +152,7 @@
       "autor": "Emiliano Maitia / Fede Di Pila",
       "titulo": "Cronicas Del Bombardeo",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9786319145618"
@@ -121,7 +188,7 @@
       "autor": "Grant Morrison / Ivan Reis / Joe Prado / Daniel Brown",
       "titulo": "Multiversity 9: Justicia Encarnada",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195575"
@@ -130,7 +197,7 @@
       "autor": "Kevin Eastman / Tom Waltz / S.L. Gallant / Ben Bishop / Freddie E. Williams Ii / Esau Escorza / Isaac Escorza / Maria Keane / Luis Antonio Delgado",
       "titulo": "Teenage Mutant Ninja Turtles: Tmnt: El Ultimo Ronin: Los Años Perdidos",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195599"
