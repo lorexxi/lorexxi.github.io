@@ -1,72 +1,62 @@
 {
   "data": [
   
+    {
+      "autor": "Victoria O’Donnell",
+      "titulo": "Mosaicos",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9786316843029"
+    },
+
+
+
+
+    {
+      "autor": "Ezequiel Arrieta",
+      "titulo": "Lo que el cuerpo sabe",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9786316843005"
+    },
+  
+  
+  
+  
+  
+  
   
     {
       "autor": "Chuck Dixon / Doug Moench / Graham Nolan / Jim Aparo",
-      "titulo": "BATMAN: KNIGHTFALL VOL 2: la caida del caballero",
+      "titulo": "Batman: Knightfall Vol 2: La Caida Del Caballero",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195988"
     },
-
-
-
     {
       "autor": "Tom King / Bilquis Evely / Matheus Lopes",
-      "titulo": "SUPERGIRL: LA MUJER DEL MAÑANA",
+      "titulo": "Supergirl: La Mujer Del Mañana",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195360"
     },
-
-
-
-
     {
-      "autor": "Scott Snyder / Greg Capullo / JONATHAN GLAPION / FCO PLASCENCIA",
-      "titulo": "BATMAN: ÚLTIMO CABALLERO EN LA TIERRA",
+      "autor": "Scott Snyder / Greg Capullo / Jonathan Glapion / Fco Plascencia",
+      "titulo": "Batman: Ultimo Caballero En La Tierra",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878196091"
     },
-  
-  
-  
-
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
     {
       "autor": "Jeph Loeb / Tim Sale / Bjarne Hansen",
       "titulo": "Superman: Las Cuatro Estaciones",

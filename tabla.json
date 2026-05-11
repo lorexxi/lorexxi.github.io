@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "autor": "Victoria O Donnell",
+      "titulo": "Mosaicos",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9786316843029"
+    },
+    {
+      "autor": "Ezequiel Arrieta",
+      "titulo": "Lo Que El Cuerpo Sabe",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9786316843005"
+    },
+    {
       "autor": "Chuck Dixon / Doug Moench / Graham Nolan / Jim Aparo",
       "titulo": "Batman: Knightfall Vol 2: La Caida Del Caballero",
       "comprado": "&#xf046",
