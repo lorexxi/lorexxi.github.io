@@ -1,8 +1,49 @@
 {
   "data": [
   
+  
+  
     {
-      "autor": "Victoria O’Donnell",
+      "autor": "PETER THIEL",
+      "titulo": "DE CERO A UNO: COMO INVENTAR EL FUTURO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789507434150"
+    },
+
+  
+
+  
+
+  
+    {
+      "autor": "Martin Berasain",
+      "titulo": "ACTIVA TUS EMOCIONES POSITIVAS: Cómo entenderlas e incluirlas a la vida y a la psicoterapia",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789871882922"
+    },
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+
+  
+    {
+      "autor": "Victoria O Donnell",
       "titulo": "Mosaicos",
       "comprado": "&#xf046",
       "leido": "&#xf096",
@@ -10,26 +51,15 @@
       "isbn": "",
       "isbn13": "9786316843029"
     },
-
-
-
-
     {
       "autor": "Ezequiel Arrieta",
-      "titulo": "Lo que el cuerpo sabe",
+      "titulo": "Lo Que El Cuerpo Sabe",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9786316843005"
     },
-  
-  
-  
-  
-  
-  
-  
     {
       "autor": "Chuck Dixon / Doug Moench / Graham Nolan / Jim Aparo",
       "titulo": "Batman: Knightfall Vol 2: La Caida Del Caballero",

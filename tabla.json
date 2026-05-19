@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "autor": "Peter Thiel",
+      "titulo": "De Cero A Uno: Como Inventar El Futuro",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789507434150"
+    },
+    {
+      "autor": "Martin Berasain",
+      "titulo": "Activa Tus Emociones Positivas: Como Entenderlas E Incluirlas A La Vida Y A La Psicoterapia",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789871882922"
+    },
+    {
       "autor": "Victoria O Donnell",
       "titulo": "Mosaicos",
       "comprado": "&#xf046",
