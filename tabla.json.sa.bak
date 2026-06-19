@@ -2,46 +2,103 @@
   "data": [
   
   
+    {
+      "autor": " Tomás Wortley / Rocio Zucchi",
+      "titulo": "SUPERGIRL: EL MUNDO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196237"
+    },
+  
+
+
+
+
+    {
+      "autor": "Todd Nauck / Jerry Ordway / Brad Walker / Michael Allred / Dan Jurgens / Mark Waid / Doug Mahnke / Norm Rapmund / Howard Porter / Hayden Sherman",
+      "titulo": "LA NUEVA HISTORIA DEL UNIVERSO DC",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196183"
+    },
+
+
+
+
+    {
+      "autor": "Grant Morrison / Howard Porter / john dell",
+      "titulo": "JLA VOL. 2: La roca de la eternidad",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194325"
+    },
+
+
+
+
+
+    {
+      "autor": "Grant Morrison / Howard Porter / john dell",
+      "titulo": "JLA VOL. 1: Nuevo orden mundial",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194318"
+    },
+  
+  
+  
   
     {
-      "autor": "PETER THIEL",
-      "titulo": "DE CERO A UNO: COMO INVENTAR EL FUTURO",
+      "autor": "Geoff Johns / Ivan Reis / Doug Mahnke / Oclair Albert / Christian Alamy",
+      "titulo": "GREEN LANTER: LA NOCHE MAS OSCURA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194349"
+    },
+  
+  
+  
+    {
+      "autor": "Darwyn Cooke / Dave Stewart",
+      "titulo": "DC: LA NUEVA FRONTERA EDICIÓN DELUXE",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194301"
+    },
+  
+  
+  
+  
+    {
+      "autor": "Peter Thiel",
+      "titulo": "De Cero A Uno: Como Inventar El Futuro",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789507434150"
     },
-
-  
-
-  
-
-  
     {
       "autor": "Martin Berasain",
-      "titulo": "ACTIVA TUS EMOCIONES POSITIVAS: Cómo entenderlas e incluirlas a la vida y a la psicoterapia",
+      "titulo": "Activa Tus Emociones Positivas: Como Entenderlas E Incluirlas A La Vida Y A La Psicoterapia",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789871882922"
     },
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-  
-
-  
     {
       "autor": "Victoria O Donnell",
       "titulo": "Mosaicos",
@@ -100,7 +157,7 @@
       "autor": "Jeph Loeb / Tim Sale",
       "titulo": "Batman: El Largo Halloween: La Precuela: Caballero Maldito",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878192345"

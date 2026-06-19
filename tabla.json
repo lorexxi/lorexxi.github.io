@@ -1,6 +1,60 @@
 {
   "data": [
     {
+      "autor": " Tomas Wortley / Rocio Zucchi",
+      "titulo": "Supergirl: El Mundo",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196237"
+    },
+    {
+      "autor": "Todd Nauck / Jerry Ordway / Brad Walker / Michael Allred / Dan Jurgens / Mark Waid / Doug Mahnke / Norm Rapmund / Howard Porter / Hayden Sherman",
+      "titulo": "La Nueva Historia Del Universo Dc",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196183"
+    },
+    {
+      "autor": "Grant Morrison / Howard Porter / John Dell",
+      "titulo": "Jla Vol. 2: La Roca De La Eternidad",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194325"
+    },
+    {
+      "autor": "Grant Morrison / Howard Porter / John Dell",
+      "titulo": "Jla Vol. 1: Nuevo Orden Mundial",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194318"
+    },
+    {
+      "autor": "Geoff Johns / Ivan Reis / Doug Mahnke / Oclair Albert / Christian Alamy",
+      "titulo": "Green Lanter: La Noche Mas Oscura",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194349"
+    },
+    {
+      "autor": "Darwyn Cooke / Dave Stewart",
+      "titulo": "Dc: La Nueva Frontera Edicion Deluxe",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194301"
+    },
+    {
       "autor": "Peter Thiel",
       "titulo": "De Cero A Uno: Como Inventar El Futuro",
       "comprado": "&#xf046",
