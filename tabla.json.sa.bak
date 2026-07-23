@@ -1,86 +1,77 @@
 {
   "data": [
-  
-  
     {
-      "autor": " Tomás Wortley / Rocio Zucchi",
-      "titulo": "SUPERGIRL: EL MUNDO",
+      "autor": "Kevin Eastman / Tom Waltz / Isaac Scorza / Ben Bishop / Luis Antonio Delgado / Esau Scorza",
+      "titulo": "Teenage Mutant Ninja Turtles: Tmnt: El Ultimo Ronin Ii: Reevolucion",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
+      "isbn13": "9789878196350"
+    },
+    {
+      "autor": "Chuck Dixon / Scott Beatty / Scott Mc Daniel / Andy Owens",
+      "titulo": "Nightwing: Año Uno",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196404"
+    },
+    {
+      "autor": " Tomas Wortley / Rocio Zucchi",
+      "titulo": "Supergirl: El Mundo",
+      "comprado": "&#xf046",
+      "leido": "&#xf046",
+      "prestado": "",
+      "isbn": "",
       "isbn13": "9789878196237"
     },
-  
-
-
-
-
     {
       "autor": "Todd Nauck / Jerry Ordway / Brad Walker / Michael Allred / Dan Jurgens / Mark Waid / Doug Mahnke / Norm Rapmund / Howard Porter / Hayden Sherman",
-      "titulo": "LA NUEVA HISTORIA DEL UNIVERSO DC",
+      "titulo": "La Nueva Historia Del Universo Dc",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878196183"
     },
-
-
-
-
     {
-      "autor": "Grant Morrison / Howard Porter / john dell",
-      "titulo": "JLA VOL. 2: La roca de la eternidad",
+      "autor": "Grant Morrison / Howard Porter / John Dell",
+      "titulo": "Jla Vol. 2: La Roca De La Eternidad",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194325"
     },
-
-
-
-
-
     {
-      "autor": "Grant Morrison / Howard Porter / john dell",
-      "titulo": "JLA VOL. 1: Nuevo orden mundial",
+      "autor": "Grant Morrison / Howard Porter / John Dell",
+      "titulo": "Jla Vol. 1: Nuevo Orden Mundial",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194318"
     },
-  
-  
-  
-  
     {
       "autor": "Geoff Johns / Ivan Reis / Doug Mahnke / Oclair Albert / Christian Alamy",
-      "titulo": "GREEN LANTER: LA NOCHE MAS OSCURA",
+      "titulo": "Green Lanter: La Noche Mas Oscura",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194349"
     },
-  
-  
-  
     {
       "autor": "Darwyn Cooke / Dave Stewart",
-      "titulo": "DC: LA NUEVA FRONTERA EDICIÓN DELUXE",
+      "titulo": "Dc: La Nueva Frontera Edicion Deluxe",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194301"
     },
-  
-  
-  
-  
     {
       "autor": "Peter Thiel",
       "titulo": "De Cero A Uno: Como Inventar El Futuro",
