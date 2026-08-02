@@ -1,5 +1,28 @@
 {
   "data": [
+  
+    {
+      "autor": "Dorling Kindersley",
+      "titulo": "Marvel: la Historia Visual: 1990 a 1994: Artistas Estrella",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9780241388235"
+    },
+  
+  
+  
+
+
+
+  
+  
+
+
+  
+
+  
     {
       "autor": "Kevin Eastman / Tom Waltz / Isaac Scorza / Ben Bishop / Luis Antonio Delgado / Esau Scorza",
       "titulo": "Teenage Mutant Ninja Turtles: Tmnt: El Ultimo Ronin Ii: Reevolucion",
@@ -94,7 +117,7 @@
       "autor": "Victoria O Donnell",
       "titulo": "Mosaicos",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9786316843029"
