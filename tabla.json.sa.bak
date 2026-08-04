@@ -1,28 +1,57 @@
 {
   "data": [
   
+  
+    {
+      "autor": "Joshua Williamson / Howard Porter / Hi-Fi",
+      "titulo": "FLASH: Año Uno",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877246643"
+    },
+  
+  
+  
+    {
+      "autor": "Joshua Williamson / Ram V / Ernie Altbacker / Will Conrad / Robert Venditti / Dale Eaglesham / Brandon Peterson / Tom Raney / Dexter Soy / Marcio Takara",
+      "titulo": "Estado Futuro: LIGA de La JUSTICIA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789877248739"
+    },
+  
+  
+  
+    {
+      "autor": "Geoff Johns / Gary Frank / Ethan Van Sciver / Ivan Reis / Phil Jimenez",
+      "titulo": "Nightwing: Año Uno",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788417106461"
+    },
+  
+  
+  
+  
+  
+  
+  
+  
     {
       "autor": "Dorling Kindersley",
-      "titulo": "Marvel: la Historia Visual: 1990 a 1994: Artistas Estrella",
+      "titulo": "Marvel: La Historia Visual: 1990 A 1994: Artistas Estrella",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9780241388235"
     },
-  
-  
-  
-
-
-
-  
-  
-
-
-  
-
-  
     {
       "autor": "Kevin Eastman / Tom Waltz / Isaac Scorza / Ben Bishop / Luis Antonio Delgado / Esau Scorza",
       "titulo": "Teenage Mutant Ninja Turtles: Tmnt: El Ultimo Ronin Ii: Reevolucion",
@@ -267,7 +296,7 @@
       "isbn13": "9789878192529"
     },
     {
-      "autor": "Chip Zdarsky Jorge Jimenez Giuseppe Camuncoli",
+      "autor": "Chip Zdarsky / Jorge Jimenez / Giuseppe Camuncoli",
       "titulo": "Batman: Joker: Año Uno",
       "comprado": "&#xf046",
       "leido": "&#xf096",
