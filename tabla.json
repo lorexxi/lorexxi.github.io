@@ -1,6 +1,33 @@
 {
   "data": [
     {
+      "autor": "Margaux Motin",
+      "titulo": "Mujer Perfecta Ni Loca",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788491460596"
+    },
+    {
+      "autor": "Mariano Sigman",
+      "titulo": "El Poder De Las Palabras: Como Cambiar Tu Cerebro (Y Tu Vida) Conversando",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788466376686"
+    },
+    {
+      "autor": "Peter Laurence / Raymond Hull",
+      "titulo": "El Principio De Peter",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788490328736"
+    },
+    {
       "autor": "Mark Waid / Chris Samnee / Matheus Lopes",
       "titulo": "Batman Y Robin: Año Uno",
       "comprado": "&#xf046",
