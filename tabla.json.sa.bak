@@ -1,59 +1,99 @@
 {
   "data": [
   
+    {
+      "autor": "VIOLETA VAZQUEZ",
+      "titulo": "DUELA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789504990567"
+    },
   
+
+    {
+      "autor": "Claudina Kutnowski",
+      "titulo": "Inteligencia laboral",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789501210774"
+    },
 
 
     {
+      "autor": "Syou Ishida",
+      "titulo": "Te receto un gato",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789504991045"
+    },
+
+
+    {
+      "autor": "Syou Ishida",
+      "titulo": "TE RECETO OTRO GATO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789504997238"
+    },
+
+  
+  
+    {
+      "autor": "Erich Fromm",
+      "titulo": "EL ARTE DE AMAR",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878220864"
+    },
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    {
       "autor": "Margaux Motin",
-      "titulo": "MUJER PERFECTA? NI LOCA!",
+      "titulo": "Mujer Perfecta Ni Loca",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788491460596"
     },
-
-
-
     {
       "autor": "Mariano Sigman",
-      "titulo": "El poder de las palabras: Como cambiar tu cerebro (y tu vida) conversando",
+      "titulo": "El Poder De Las Palabras: Como Cambiar Tu Cerebro (Y Tu Vida) Conversando",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788466376686"
     },
-
-
-
-
-
     {
       "autor": "Peter Laurence / Raymond Hull",
-      "titulo": "EL PRINCIPIO DE PETER",
+      "titulo": "El Principio De Peter",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788490328736"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
     {
       "autor": "Mark Waid / Chris Samnee / Matheus Lopes",
       "titulo": "Batman Y Robin: Año Uno",
