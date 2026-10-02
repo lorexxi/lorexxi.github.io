@@ -1,6 +1,24 @@
 {
   "data": [
     {
+      "autor": "Jeph Loeb / Jim Lee / Scott Williams / Alex Sinclair",
+      "titulo": "Batman: Hush 2",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196817"
+    },
+    {
+      "autor": "Alfredo Alcala / Mark Texeira / Don Glut",
+      "titulo": "He Man Y Los Amos Del Universo: Los Minicomics Vol. 1",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195858"
+    },
+    {
       "autor": "Violeta Vazquez",
       "titulo": "Duela",
       "comprado": "&#xf046",

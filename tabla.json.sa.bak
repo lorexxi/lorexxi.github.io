@@ -2,76 +2,84 @@
   "data": [
   
     {
-      "autor": "VIOLETA VAZQUEZ",
-      "titulo": "DUELA",
+      "autor": "Jeph Loeb / Jim Lee / Scott Williams / Alex Sinclair",
+      "titulo": "Batman: Hush 2",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196817"
+    },
+  
+
+
+    {
+      "autor": "Alfredo Alcalá / Mark Texeira / Don Glut",
+      "titulo": "He-man Y Los Amos Del Universo: Los Minicómics Vol. 1",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195858"
+    },
+  
+  
+  
+  
+  
+  
+  
+  
+    {
+      "autor": "Violeta Vazquez",
+      "titulo": "Duela",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789504990567"
     },
-  
-
     {
       "autor": "Claudina Kutnowski",
-      "titulo": "Inteligencia laboral",
+      "titulo": "Inteligencia Laboral",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789501210774"
     },
-
-
     {
       "autor": "Syou Ishida",
-      "titulo": "Te receto un gato",
+      "titulo": "Te Receto Un Gato",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789504991045"
     },
-
-
     {
       "autor": "Syou Ishida",
-      "titulo": "TE RECETO OTRO GATO",
+      "titulo": "Te Receto Otro Gato",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789504997238"
     },
-
-  
-  
     {
       "autor": "Erich Fromm",
-      "titulo": "EL ARTE DE AMAR",
+      "titulo": "El Arte De Amar",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878220864"
     },
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
     {
       "autor": "Margaux Motin",
       "titulo": "Mujer Perfecta Ni Loca",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788491460596"
@@ -143,7 +151,7 @@
       "autor": "Kevin Eastman / Tom Waltz / Isaac Scorza / Ben Bishop / Luis Antonio Delgado / Esau Scorza",
       "titulo": "Teenage Mutant Ninja Turtles: Tmnt: El Ultimo Ronin Ii: Reevolucion",
       "comprado": "&#xf046",
-      "leido": "&#xf096",
+      "leido": "&#xf046",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878196350"
