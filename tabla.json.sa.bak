@@ -2,6 +2,95 @@
   "data": [
   
     {
+      "autor": "Geoff Johns / Patrick Gleason",
+      "titulo": "GREEN LANTERN: SIN MIEDO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196633"
+    },
+  
+  
+  
+    {
+      "autor": "Scott Snyder / Jock / Francesco Francavilla",
+      "titulo": "BATMAN: EL ESPEJO NEGRO",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878190143"
+    },
+    
+    
+    {
+      "autor": "Geoff Johns / Ivan Reis / Doug Mahnke / Oclair Albert / Christian Alamy",
+      "titulo": "Green Lanter: La Noche Mas Oscura",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878194349"
+    },
+    
+    
+    
+
+
+    {
+      "autor": "Geoff Johns / Peter J. Tomasi / Ivan Reis / Patrick Gleason / Ardian Syaf / Scott Clark / Joe Prado",
+      "titulo": "Green Lantern: El día más brillante",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878195841"
+    },
+  
+  
+    {
+      "autor": "Jeph Loeb / Tim Sale",
+      "titulo": "Batman: El Largo Halloween: CATWOMAN: SI VAS A ROMA",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878190921"
+    },
+  
+  
+    {
+      "autor": "Scott Snyder / Matt Fraction",
+      "titulo": "BATMAN DE DOS MUNDOS",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789878196831"
+    },
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    {
       "autor": "Jeph Loeb / Jim Lee / Scott Williams / Alex Sinclair",
       "titulo": "Batman: Hush 2",
       "comprado": "&#xf046",
@@ -10,26 +99,15 @@
       "isbn": "",
       "isbn13": "9789878196817"
     },
-  
-
-
     {
-      "autor": "Alfredo Alcalá / Mark Texeira / Don Glut",
-      "titulo": "He-man Y Los Amos Del Universo: Los Minicómics Vol. 1",
+      "autor": "Alfredo Alcala / Mark Texeira / Don Glut",
+      "titulo": "He Man Y Los Amos Del Universo: Los Minicomics Vol. 1",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195858"
     },
-  
-  
-  
-  
-  
-  
-  
-  
     {
       "autor": "Violeta Vazquez",
       "titulo": "Duela",
