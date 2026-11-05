@@ -1,95 +1,94 @@
 {
   "data": [
   
+  
+    {
+      "autor": "Isaac Asimov",
+      "titulo": "Grandes ideas de la ciencia",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9788420662800"
+    },
+  
+  
+  
+    {
+      "autor": "Marcela Alluz",
+      "titulo": "MAL DE MUCHAS",
+      "comprado": "&#xf046",
+      "leido": "&#xf096",
+      "prestado": "",
+      "isbn": "",
+      "isbn13": "9789500210195"
+    },
+
+
+  
+
+
+
+
+  
+
+
+
+  
     {
       "autor": "Geoff Johns / Patrick Gleason",
-      "titulo": "GREEN LANTERN: SIN MIEDO",
+      "titulo": "Green Lantern: Sin Miedo",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878196633"
     },
-  
-  
-  
     {
       "autor": "Scott Snyder / Jock / Francesco Francavilla",
-      "titulo": "BATMAN: EL ESPEJO NEGRO",
+      "titulo": "Batman: El Espejo Negro",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878190143"
     },
-    
-    
     {
       "autor": "Geoff Johns / Ivan Reis / Doug Mahnke / Oclair Albert / Christian Alamy",
-      "titulo": "Green Lanter: La Noche Mas Oscura",
+      "titulo": "Green Lantern: La Noche Mas Oscura",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878194349"
     },
-    
-    
-    
-
-
     {
       "autor": "Geoff Johns / Peter J. Tomasi / Ivan Reis / Patrick Gleason / Ardian Syaf / Scott Clark / Joe Prado",
-      "titulo": "Green Lantern: El día más brillante",
+      "titulo": "Green Lantern: El Dia Mas Brillante",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878195841"
     },
-  
-  
     {
       "autor": "Jeph Loeb / Tim Sale",
-      "titulo": "Batman: El Largo Halloween: CATWOMAN: SI VAS A ROMA",
+      "titulo": "Batman: El Largo Halloween: Catwoman: Si Vas A Roma",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878190921"
     },
-  
-  
     {
       "autor": "Scott Snyder / Matt Fraction",
-      "titulo": "BATMAN DE DOS MUNDOS",
+      "titulo": "Batman De Dos Mundos",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789878196831"
     },
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
     {
       "autor": "Jeph Loeb / Jim Lee / Scott Williams / Alex Sinclair",
       "titulo": "Batman: Hush 2",
@@ -281,7 +280,7 @@
     },
     {
       "autor": "Geoff Johns / Ivan Reis / Doug Mahnke / Oclair Albert / Christian Alamy",
-      "titulo": "Green Lanter: La Noche Mas Oscura",
+      "titulo": "Green Lantern: La Noche Mas Oscura",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
