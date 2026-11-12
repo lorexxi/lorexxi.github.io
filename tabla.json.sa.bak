@@ -1,40 +1,23 @@
 {
   "data": [
-  
-  
     {
       "autor": "Isaac Asimov",
-      "titulo": "Grandes ideas de la ciencia",
+      "titulo": "Grandes Ideas De La Ciencia",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9788420662800"
     },
-  
-  
-  
     {
       "autor": "Marcela Alluz",
-      "titulo": "MAL DE MUCHAS",
+      "titulo": "Mal De Muchas",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
       "isbn": "",
       "isbn13": "9789500210195"
     },
-
-
-  
-
-
-
-
-  
-
-
-
-  
     {
       "autor": "Geoff Johns / Patrick Gleason",
       "titulo": "Green Lantern: Sin Miedo",
@@ -1180,7 +1163,7 @@
     },
     {
       "autor": "Yuval Harari",
-      "titulo": "Imparables",
+      "titulo": "Imparables: DIARIO DE COMO CONQUISTAMOS LA TIERRA",
       "comprado": "&#xf046",
       "leido": "&#xf096",
       "prestado": "",
